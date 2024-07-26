@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+
+/* src/App.css */
+.App {
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  background: #f4f4f4;
+  margin: 8px 0;
+  padding: 10px;
+  border-radius: 4px;
+}
